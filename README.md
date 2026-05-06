@@ -17,29 +17,6 @@ A sleek, modern, and high-performance personal portfolio website built from scra
 - Animations: Framer Motion & React Scroll Parallax
 - Icons: Lucide React
 
-## 🛠️ Local Development Setup
-To run this project locally, make sure you have Node.js installed.
-
-1. Clone the repository
-\`\`\`bash
-git clone https://github.com/bhavyasatyasri200/portfolio-1.git
-cd portfolio-1
-\`\`\`
-
-2. Install dependencies
-\`\`\`bash
-npm install
-\`\`\`
-
-3. Start the development server
-\`\`\`bash
-npm run dev
-\`\`\`
-
-4. Build for Production
-\`\`\`bash
-npm run build
-\`\`\`
 
 ## 📌 Author
 **Karri Bhavya Satya Sri** - Full Stack Developer
