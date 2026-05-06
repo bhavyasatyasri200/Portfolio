@@ -3,7 +3,7 @@
 A sleek, modern, and high-performance personal portfolio website built from scratch with React, Vite, and Tailwind CSS v4.
 
 ## 🚀 Live Demo
-[Insert Deployment Link Here]
+https://portfolio-ten-ebon-37.vercel.app/
 
 ## ✨ Features
 - **Responsive Layout:** Perfectly scales across mobile (375px), tablet (768px), and desktop (1280px) devices without horizontal scrollbars.
