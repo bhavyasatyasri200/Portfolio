@@ -3,7 +3,7 @@
 A sleek, modern, and high-performance personal portfolio website built from scratch with React, Vite, and Tailwind CSS v4.
 
 ## 🚀 Live Demo
-https://bhavya-gilt.vercel.app/
+https://bhavya1-rosy.vercel.app/
 
 ## ✨ Features
 - **Responsive Layout:** Perfectly scales across mobile (375px), tablet (768px), and desktop (1280px) devices without horizontal scrollbars.
