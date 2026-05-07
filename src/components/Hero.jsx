@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Parallax } from 'react-scroll-parallax';
 import { ArrowRight, Download } from 'lucide-react';
 import profileImg from "../image/pic2.jpeg";
-import resumePdf from "../image/Karri_Bhavya_Satya_Sri_Resume1.pdf";
+import resumePdf from "../image/23P31A0533_Resume.pdf";
 
 export default function Hero() {
   const nameText = "Karri Bhavya Satya Sri";
