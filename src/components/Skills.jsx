@@ -3,13 +3,14 @@ import { motion } from 'framer-motion';
 const skills = [
   { name: 'HTML5', level: 90, color: 'bg-orange-500' },
   { name: 'CSS3', level: 85, color: 'bg-blue-500' },
-  { name: 'JavaScript', level: 85, color: 'bg-yellow-400' },
+  { name: 'JavaScript', level: 75, color: 'bg-yellow-400' },
   { name: 'React JS', level: 80, color: 'bg-cyan-400' },
   { name: 'Node.js', level: 75, color: 'bg-green-500' },
   { name: 'Express.js', level: 75, color: 'bg-gray-400' },
-  { name: 'MongoDB', level: 70, color: 'bg-green-600' },
-  { name: 'C', level: 80, color: 'bg-blue-600' },
-  { name: 'Java', level: 75, color: 'bg-red-500' },
+  { name: 'MongoDB', level: 60, color: 'bg-green-600' },
+  { name: 'C', level: 60, color: 'bg-blue-600' },
+  { name: 'Java', level: 80, color: 'bg-red-500' },
+   { name: 'SQL', level: 60, color: 'bg-gray-500' },
 ];
 
 const containerVariants = {
