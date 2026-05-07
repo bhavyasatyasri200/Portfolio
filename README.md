@@ -17,6 +17,18 @@ https://bhavya-ten.vercel.app/
 - Animations: Framer Motion & React Scroll Parallax
 - Icons: Lucide React
 
+## Run the Project locally
+# Clone the repository
+git clone https://github.com/bhavyasatyasri200/Portfolio.git
+
+# Move into the project folder
+cd Portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
 
 ## 📌 Author
 **Karri Bhavya Satya Sri** - Full Stack Developer
