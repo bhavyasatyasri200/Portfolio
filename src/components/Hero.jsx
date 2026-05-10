@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Parallax } from 'react-scroll-parallax';
 import { ArrowRight, Download } from 'lucide-react';
-import profileImg from "../image/pic2.jpeg";
+import profileImg from "../image/pic2.jpg";
 import resumePdf from "../image/23P31A0533_Resume.pdf";
 
 export default function Hero() {
